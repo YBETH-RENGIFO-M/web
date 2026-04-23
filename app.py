@@ -16,7 +16,7 @@ WOMPI_PUBLIC_KEY = "pub_stagtest_g2u0HQd3ZMh05hsSgTS2lUV8t3s4mOt7"  # Reemplazar
 WOMPI_ENV = "sandbox"  # Cambiar a "production" en producción
 NOTIFICATION_EMAIL = "tubotlatam@gmail.com"
 CURRENCY = "COP"
-AMOUNT_COP = 150000  # Precio en COP (se envía en centavos a Wompi)
+AMOUNT_COP = 350000  # Precio en COP (se envía en centavos a Wompi)
 
 st.set_page_config(
     page_title="TuBot LATAM — Indicadores NinjaTrader",
